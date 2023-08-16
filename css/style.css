@@ -1,0 +1,11 @@
+.imgintegrantes{
+    width: 40%;
+    float: left;
+    border-radius: 20px;
+    padding: 1%;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
